@@ -10,8 +10,8 @@
 You will find a small flag at the beginning of my repositories that tells you the general purpose of it.
 - **p-** *(for project):* Software with a well-defined objective and scope.
 - **b-** *(for boilerplate)*: Software for streamlining the development process and avoiding starting from scratch.
-- **s-** *(Sandbox)*: Playgound to for exploring technologies.
-- **t-** *(Tutorial)*: Step-by-step guide about certain technologies.
+- **s-** *(for sandbox)*: Playground to for exploring technologies.
+- **t-** *(for tutorial)*: Step-by-step guide about certain technologies.
   
 <!---
 DavidGiraldoCode/DavidGiraldoCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
