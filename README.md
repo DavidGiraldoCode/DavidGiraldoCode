@@ -1,5 +1,5 @@
 # Hello!
-- 👋 Hi, I’m a creative programming developer and product consultant.
+- 👋 Hi, I’m a Gameplay programmer · Computer Graphics Developer · Product Consultant.
 - 💼 4 years working in UX for new media and IoT contexts.
 - 🎓 Currently pursuing a master's in *Interactive Media Technology* at **KTH** 🇸🇪.
 - 📜 I have a background in Interactive Media Design and Industrial Design.
@@ -10,7 +10,7 @@
 You will find a small flag at the beginning of my repositories that tells you the general purpose of it.
 - **p-** *(for project):* Software with a well-defined objective and scope.
 - **b-** *(for boilerplate)*: Software for streamlining the development process and avoiding starting from scratch.
-- **s-** *(for sandbox)*: Playground to for exploring technologies.
+- **s-** *(for sandbox/sketch)*: Playground to for exploring technologies.
 - **t-** *(for tutorial)*: Step-by-step guide about certain technologies.
   
 <!---
