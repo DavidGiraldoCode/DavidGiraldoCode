@@ -1,9 +1,9 @@
 # Hello!
 
 <div style="display: flex; justify-content: space-between;">
-  <img width="280" alt="image" src="https://github.com/user-attachments/assets/9be7b28e-305d-4635-9b7a-c907d874c8a1">
-  <img width="280" alt="image" src="https://github.com/user-attachments/assets/705e01f5-3e69-40c7-8447-c6f9cd0f741b">
-  <img width="280" alt="image" src="https://github.com/user-attachments/assets/62b64793-0b49-4153-9692-6d2931421c09">
+  <img width="240" alt="image" src="https://github.com/user-attachments/assets/9be7b28e-305d-4635-9b7a-c907d874c8a1">
+  <img width="240" alt="image" src="https://github.com/user-attachments/assets/705e01f5-3e69-40c7-8447-c6f9cd0f741b">
+  <img width="240" alt="image" src="https://github.com/user-attachments/assets/62b64793-0b49-4153-9692-6d2931421c09">
 </div>
 
 
