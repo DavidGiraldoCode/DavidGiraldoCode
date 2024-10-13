@@ -1,13 +1,16 @@
 # Hello!
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/9be7b28e-305d-4635-9b7a-c907d874c8a1">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/705e01f5-3e69-40c7-8447-c6f9cd0f741b">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/62b64793-0b49-4153-9692-6d2931421c09">
+
 - 👋 Hi, I’m a Gameplay programmer · Computer Graphics Developer · Product Consultant.
-- 💼 4 years working in UX for new media and IoT contexts.
 - 🎓 Currently pursuing a master's in *Interactive Media Technology* at **KTH** 🇸🇪.
-- 📜 I have a background in Interactive Media Design and Industrial Design.
-- 👀 I’m interested in creative technology, video games, and new media.
+- 💼 4 years working in UX for new media and IoT contexts.
+- 👀 I’m interested in shader VFX, rendering, simulations, video games, and new media for creative technology.
 - [📫 You can reach here](https://how-to-find-me.netlify.app)
 
 ## My repos tag 🏷️ system
-You will find a small flag at the beginning of my repositories that tells you the general purpose of it.
+You will find a small flag at the beginning of my repositories that tells you its general purpose.
 - **p-** *(for project):* Software with a well-defined objective and scope.
 - **b-** *(for boilerplate)*: Software for streamlining the development process and avoiding starting from scratch.
 - **s-** *(for sandbox/sketch)*: Playground to for exploring technologies.
