@@ -8,6 +8,7 @@
 <div style="display: flex; justify-content: space-between;">
   <img width="730" alt="image" src="https://github.com/DavidGiraldoCode/s-Shader_graphics_and_VFX_with_HLSL_Unity/blob/main/Assets/Images/kakapos.png">
 </div>
+
 - 👋 Hi, I’m a Gameplay programmer · Computer Graphics Developer · Product Consultant.
 - 🎓 Currently pursuing a master's in *Interactive Media Technology* at **KTH** 🇸🇪.
 - 💼 4 years working in UX for new media and IoT contexts.
