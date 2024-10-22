@@ -5,8 +5,9 @@
   <img width="240" alt="image" src="https://github.com/user-attachments/assets/705e01f5-3e69-40c7-8447-c6f9cd0f741b">
   <img width="240" alt="image" src="https://github.com/user-attachments/assets/62b64793-0b49-4153-9692-6d2931421c09">
 </div>
-
-
+<div style="display: flex; justify-content: space-between;">
+  <img width="730" alt="image" src="https://github.com/DavidGiraldoCode/s-Shader_graphics_and_VFX_with_HLSL_Unity/blob/main/Assets/Images/kakapos.png">
+</div>
 - 👋 Hi, I’m a Gameplay programmer · Computer Graphics Developer · Product Consultant.
 - 🎓 Currently pursuing a master's in *Interactive Media Technology* at **KTH** 🇸🇪.
 - 💼 4 years working in UX for new media and IoT contexts.
