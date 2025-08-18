@@ -28,31 +28,43 @@
 - 👋 Hi, I’m a Computer Graphics Developer · Product Consultant · Creative Technologist.
 - 🎓 MS in *Interactive Media Technology* at **KTH** 🇸🇪.
 - 💼 4 years working in UX for new media and IoT contexts.
-- 👀 I’m interested in real-time interactive 3D applications, shader VFX, rendering, simulations, video games, and new media for creative technology.
+- 🔥 I'm interested in real-time 3D computer graphics, rendering, simulations, video games, and VR/AR interactions, particularly in VR-enabled human-vehicle interaction and evaluating proxemics with humanoid robots.
 - [📫 You can reach me out here](https://how-to-find-me.netlify.app)
 
 
-<h2> 🧰 &nbsp;Toolkit</h2>
+## 🧰 Toolkit
 <div align="left" style="background-color:white">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" style="height:45px; width:auto; margin-right:240px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" style="height:45px; width:auto; margin-right:24px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" style="height:45px; width:auto; margin-right:24px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" style="height:45px; width:auto; margin-right:24px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" style="height:45px; width:auto; margin-right:24px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" style="height:45px; width:auto; margin-right:24px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="arduino" style="height:45px; width:auto; margin-right:24px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="height:45px; width:auto; margin-right:24px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" style="height:45px; width:auto; margin-right:24px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" style="height:45px; width:auto; margin-right:24px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" alt="opengl" style="height:45px; width:auto; margin-right:24px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" alt="p5js" style="height:45px; width:auto; margin-right:24px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" style="height:45px; width:auto; margin-right:24px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-plain.svg" alt="sdl" style="height:45px; width:auto;"/>
+  <p> Code editors and design-dev handoff</br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" style="height:45px; width:auto; margin-right:240px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" style="height:45px; width:auto; margin-right:24px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" style="height:45px; width:auto; margin-right:24px;"/>
+  </p>
+  <p> Computer graphics, VR, and game development </br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" style="height:45px; width:auto; margin-right:24px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" style="height:45px; width:auto; margin-right:24px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" style="height:45px; width:auto; margin-right:24px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="height:45px; width:auto; margin-right:24px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-plain.svg" alt="opengl" style="height:45px; width:auto; margin-right:24px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sdl/sdl-plain.svg" alt="sdl" style="height:45px; width:auto;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" style="height:45px; width:auto;"/>
+  </p>
+  <p> Web development </br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" style="height:45px; width:auto; margin-right:24px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" alt="p5js" style="height:45px; width:auto; margin-right:24px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" style="height:45px; width:auto; margin-right:24px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" style="height:45px; width:auto; margin-right:24px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original-wordmark.svg" alt="socketio" style="height:45px; width:auto; margin-right:24px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="height:45px; width:auto; margin-right:24px;"/>
+  </p>
+  <p> IoT prototyping </br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" style="height:45px; width:auto; margin-right:24px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="arduino" style="height:45px; width:auto; margin-right:24px;"/>
+  </p>
 </div>
 
 
 
-## My repos tag 🏷️ system
+## 🏷️ My repos tag system
 You will find a small flag at the beginning of my repositories that tells you its general purpose.
 - **p-** *(for project):* Software with a well-defined objective and scope.
 - **b-** *(for boilerplate)*: Software for streamlining the development process and avoiding starting from scratch.
