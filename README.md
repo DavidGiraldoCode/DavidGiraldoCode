@@ -1,8 +1,13 @@
 <!--![header](https://capsule-render.vercel.app/api?type=venom&height=400&text=David%20Giraldo&desc=Computer%20Graphics%20Developer)-->
+# _Computer graphics, VR-interaction and creative technology_
 
+Click to visit the projects 👇
 <div style="width: 100; display: flex; align-items: center; justify-content: space-evenly;">
   <!--img width="240" alt="image" src="https://github.com/user-attachments/assets/9be7b28e-305d-4635-9b7a-c907d874c8a1"-->
-  <!--a href="https://github.com/DavidGiraldoCode/t-spatial_partitioning/tree/main" target="_blank"-->
+  <!--a href="https://github.com/DavidGiraldoCode/t-spatial_partitioning/tree/main" target="_blank" https://github.com/user-attachments/assets/705e01f5-3e69-40c7-8447-c6f9cd0f741b-->
+  <a href="https://github.com/DavidGiraldoCode/p-MS_Thesis_Faster_Volumetric_Cloudscapes_with_GPU-based_Decoupled_Ray_Marching" target="_blank">  
+    <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/190b4851-ef8f-400c-81be-aa8a0090b60f" />
+  </a>
   <a href="https://github.com/DavidGiraldoCode/s-Evaluating_VR_teleportation_under_stressful_gameplay/tree/main" target="_blank">
     <img width="240" alt="image" src="https://github.com/DavidGiraldoCode/s-Evaluating_VR_teleportation_under_stressful_gameplay/blob/main/Assets/Art/Images/cheating_control.gif"/>
   </a>
@@ -15,16 +20,13 @@
   <a href="https://github.com/Interactive-Rocket/p-LostToTime-game" target="_blank">  
     <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/226ef4e3-a6c4-4d5c-a73e-8ce071dc3448" />
   </a>
-  <a href="https://github.com/DavidGiraldoCode/t-spatial_partitioning" target="_blank">  
-    <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/705e01f5-3e69-40c7-8447-c6f9cd0f741b" />
-  </a>
   <a href="https://github.com/DavidGiraldoCode/p_gmtk_game_jam_build_to_scale" target="_blank">  
     <img width="240" height="240" alt="image" src="https://img.itch.zone/aW1hZ2UvMjkxNTY4MC8xNzQ5MTI2Ny5naWY=/original/Ju9D98.gif" />
   </a>
   
 </div>
 
-
+## 🐲 About
 - 👋 Hi, I’m a Computer Graphics Developer · Product Consultant · Creative Technologist.
 - 🎓 MS in *Interactive Media Technology* at **KTH** 🇸🇪.
 - 💼 4 years working in UX for new media and IoT contexts.
